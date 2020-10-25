@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
+
+* {
+    box-sizing: border-box;
+}
+  
+:root {
+    --Sniglet-font: "Sniglet", cursive;
+    --Rubik: "Rubik", cursive;
+    --Patua: "Patua One", cursive;
+    --Lobster: "lobster", cursive;
+    --lemonade: #fad65f;
+}  
+
+.container {
+    margin-top: 50px;
+}
+.card {
+    background: rgba(0, 0, 0, 0.3);
+    margin: auto;
+}
+
+.card img {
+    width: 300px;
+    border-radius: 5px;
+    margin: auto
+}
+.col-md-7 {
+    background: rgba(0, 0, 0, 0.3);
+    
+}
+
+.col-md-7 h2 {
+    color: var(--lemonade);
+    margin-top: 10px;
+    background: black;
+    padding: 10px;
+    border-radius: 5px;
+}
+ .col-md-4 {
+     margin-right: 10px;
+ }
+
+ .col-md-12 a {
+    color: black;
+    margin: 10px;
+    border: none;
+    padding: 15px;
+ }
+
+ .col-md-12 a:hover {
+     color: whitesmoke;
+     background: black;
+ }

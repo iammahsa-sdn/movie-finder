@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
+
+*{
+    box-sizing: border-box;
+}
+:root {
+    --Sniglet-font: "Sniglet", cursive;
+    --Rubik: "Rubik", cursive;
+    --Patua: "Patua One", cursive;
+    --Lobster: "lobster", cursive;
+    --lemonade: #fad65f;
+}  
+
+
+.container-fluid .col-md-12{
+    background: var(--lemonade);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    
+}
+
+.container-fluid .row .col-md-12 .form-group label{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: var(--Patua);
+}
+.container-fluid .row .col-md-12 .form-group input{
+    border: none;
+    padding: 30px;
+} 
+.container-fluid .row  button{
+    color: white;
+    background-color: black;
+    border: none;
+    font-weight: bold;
+    font-family: var(--Rubik);
+}
+
+.container-fluid .row  button:hover{
+    color: black;
+    background: whitesmoke;
+    font-weight: bold;
+}
