@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/movie-finder/static/css/main.62955dc2.chunk.css",
+    "main.js": "/movie-finder/static/js/main.e9877bfd.chunk.js",
+    "main.js.map": "/movie-finder/static/js/main.e9877bfd.chunk.js.map",
+    "runtime-main.js": "/movie-finder/static/js/runtime-main.07fa9e7e.js",
+    "runtime-main.js.map": "/movie-finder/static/js/runtime-main.07fa9e7e.js.map",
+    "static/js/2.17398bfb.chunk.js": "/movie-finder/static/js/2.17398bfb.chunk.js",
+    "static/js/2.17398bfb.chunk.js.map": "/movie-finder/static/js/2.17398bfb.chunk.js.map",
+    "static/js/3.67958586.chunk.js": "/movie-finder/static/js/3.67958586.chunk.js",
+    "static/js/3.67958586.chunk.js.map": "/movie-finder/static/js/3.67958586.chunk.js.map",
+    "index.html": "/movie-finder/index.html",
+    "static/css/main.62955dc2.chunk.css.map": "/movie-finder/static/css/main.62955dc2.chunk.css.map",
+    "static/js/2.17398bfb.chunk.js.LICENSE.txt": "/movie-finder/static/js/2.17398bfb.chunk.js.LICENSE.txt",
+    "static/media/Landing.css": "/movie-finder/static/media/5.5f4f0e73.jpg",
+    "static/media/spinnerseven.70333325.gif": "/movie-finder/static/media/spinnerseven.70333325.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07fa9e7e.js",
+    "static/js/2.17398bfb.chunk.js",
+    "static/css/main.62955dc2.chunk.css",
+    "static/js/main.e9877bfd.chunk.js"
+  ]
+}
